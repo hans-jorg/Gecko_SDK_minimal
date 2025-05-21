@@ -8,6 +8,6 @@ This is a stripped down version of Gecko_SDK containing the files needed to comp
 
 **Note**
 
-During a time Gecko_SDK was no more distributed as a stand alone package and it could only be accessed as a part of the Simplicity Studio IDE, distributed by Silicon Lab. It was neccessary to download [Simplicity Studio](http://www.silabs.com/simplicity).
+During a time Gecko_SDK was no more distributed as a stand alone package and it could only be accessed as a part of the Simplicity Studio IDE, distributed by Silicon Lab. It was neccessary to download [Simplicity Studio](http://www.silabs.com/simplicity). It is now possible to get it from [https://github.com/SiliconLabs/gecko_sdk](GitHub) but it is huge (1.4 GB).
 
 
